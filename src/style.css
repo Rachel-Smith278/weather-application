@@ -29,7 +29,7 @@ li {
   padding: 15px;
   margin: 20px auto;
   border-radius: 10px;
-  max-width: 450px;
+  max-width: 550px;
 }
 
 .icon {
@@ -62,23 +62,23 @@ li {
 .green-btn{
   color: #ffffff;
   background-color: blueviolet;
-  padding-left: 20px;
-  padding-right: 20px;
+  text-align: center;
   padding-bottom: 7px;
   padding-top: 5px;
   border: none;
   border-radius: 4px;
   margin-top: 1px;
+  width: 60%;
 }
 
 .blue-btn{
   color: #ffffff;
   background-color: blue;
-  padding-left: 20px;
-  padding-right: 20px;
+  text-align: center;
   padding-bottom: 7px;
   padding-top: 5px;
   border: none;
   border-radius: 4px;
   margin-top: 1px;
+  width:70%
 }
